@@ -1,0 +1,1010 @@
+[
+    {
+        "context": "Newton's First Law of Motion states that an object will remain at rest or in uniform motion unless acted upon by an external force."
+    },
+    {
+        "context": "Newton's Second Law states that the force acting on an object is equal to the mass of that object multiplied by its acceleration (F = ma)."
+    },
+    {
+        "context": "Newton's Third Law states that for every action, there is an equal and opposite reaction."
+    },
+    {
+        "context": "The Law of Universal Gravitation states that every mass attracts every other mass with a force proportional to their masses and inversely proportional to the square of the distance between them (F = G*(m1*m2)/r^2)."
+    },
+    {
+        "context": "The First Law of Thermodynamics states that energy cannot be created or destroyed, only transferred or changed in form."
+    },
+    {
+        "context": "The Second Law of Thermodynamics states that the total entropy of an isolated system always increases over time."
+    },
+    {
+        "context": "The Third Law of Thermodynamics states that as the temperature of a system approaches absolute zero, the entropy approaches a constant minimum."
+    },
+    {
+        "context": "Hooke\u2019s Law states that the force needed to extend or compress a spring is proportional to the distance it is stretched or compressed (F = kx)."
+    },
+    {
+        "context": "Ohm's Law states that the current through a conductor is directly proportional to the voltage across it and inversely proportional to its resistance (V = IR)."
+    },
+    {
+        "context": "The Law of Conservation of Energy states that energy cannot be created or destroyed, only transferred or transformed from one form to another."
+    },
+    {
+        "context": "Coulomb\u2019s Law states that the force between two charges is directly proportional to the product of their magnitudes and inversely proportional to the square of the distance between them (F = k*(q1*q2)/r^2)."
+    },
+    {
+        "context": "The Law of Reflection states that the angle of incidence is equal to the angle of reflection."
+    },
+    {
+        "context": "Snell\u2019s Law describes how light bends when it passes from one medium to another and is given by n1*sin(\u03b81) = n2*sin(\u03b82)."
+    },
+    {
+        "context": "Faraday's Law states that a change in magnetic flux through a loop of wire induces an electromotive force (EMF) in the wire."
+    },
+    {
+        "context": "Lenz\u2019s Law states that the direction of an induced current is such that it opposes the change in the magnetic flux that caused it."
+    },
+    {
+        "context": "The Principle of Superposition states that the total displacement caused by two or more waves is the sum of the individual displacements."
+    },
+    {
+        "context": "Bernoulli\u2019s Principle states that an increase in the speed of a fluid occurs simultaneously with a decrease in pressure or potential energy."
+    },
+    {
+        "context": "The Law of Conservation of Momentum states that the total momentum of a closed system remains constant if no external forces act on it."
+    },
+    {
+        "context": "Boyle\u2019s Law states that the pressure of a given mass of gas is inversely proportional to its volume at a constant temperature (P1*V1 = P2*V2)."
+    },
+    {
+        "context": "Charles\u2019s Law states that the volume of a gas is directly proportional to its temperature at constant pressure (V1/T1 = V2/T2)."
+    },
+    {
+        "context": "Ampere\u2019s Law relates the integrated magnetic field around a closed loop to the electric current passing through the loop."
+    },
+    {
+        "context": "Kirchhoff\u2019s Voltage Law states that the sum of all electrical potential differences in a closed circuit is zero."
+    },
+    {
+        "context": "Kirchhoff\u2019s Current Law states that the sum of currents entering a junction must equal the sum of currents leaving the junction."
+    },
+    {
+        "context": "The Zeroth Law of Thermodynamics states that if two systems are in thermal equilibrium with a third system, they are in thermal equilibrium with each other."
+    },
+    {
+        "context": "The Pauli Exclusion Principle states that no two fermions can occupy the same quantum state simultaneously."
+    },
+    {
+        "context": "Heisenberg\u2019s Uncertainty Principle states that it is impossible to simultaneously know both the position and the momentum of a particle with absolute precision."
+    },
+    {
+        "context": "The Doppler Effect refers to the change in frequency or wavelength of a wave as perceived by an observer moving relative to the source of the wave."
+    },
+    {
+        "context": "The Work-Energy Theorem states that the work done on an object is equal to the change in its kinetic energy."
+    },
+    {
+        "context": "The Stefan-Boltzmann Law states that the total energy radiated per unit surface area of a black body is proportional to the fourth power of the temperature (P = \u03c3T^4)."
+    },
+    {
+        "context": "Hubble\u2019s Law states that the recessional velocity of galaxies is proportional to their distance from us, indicating that the universe is expanding."
+    },
+    {
+        "context": "Planck\u2019s Law describes the spectral density of electromagnetic radiation emitted by a black body in thermal equilibrium at a given temperature."
+    },
+    {
+        "context": "Archimedes\u2019 Principle states that a body immersed in a fluid experiences an upward buoyant force equal to the weight of the fluid it displaces."
+    },
+    {
+        "context": "Pascal\u2019s Law states that pressure applied to a confined fluid is transmitted undiminished in all directions throughout the fluid."
+    },
+    {
+        "context": "Stefan\u2019s Constant is the proportionality constant in the Stefan-Boltzmann Law, relating the radiated energy of a black body to its temperature."
+    },
+    {
+        "context": "Quantum Tunneling describes the phenomenon where particles pass through a potential energy barrier that they classically should not be able to surmount."
+    },
+    {
+        "context": "The Schrodinger Equation describes how the quantum state of a physical system changes over time."
+    },
+    {
+        "context": "The Heisenberg Equation of Motion describes the time evolution of observables in quantum mechanics based on commutator relations."
+    },
+    {
+        "context": "The Quantum Harmonic Oscillator is a model that describes the quantum behavior of a particle bound in a potential well where the force acting on the particle is proportional to its displacement from equilibrium."
+    },
+    {
+        "context": "The De Broglie Hypothesis states that particles, such as electrons, exhibit wave-like properties, with a wavelength given by \u03bb = h/p, where h is Planck\u2019s constant and p is the momentum."
+    },
+    {
+        "context": "Fick\u2019s Law states that the diffusion flux is proportional to the concentration gradient of a substance, describing how particles move from areas of high concentration to low concentration."
+    },
+    {
+        "context": "Boyle\u2019s Law states that the pressure of a gas is inversely proportional to its volume at constant temperature, expressed as P1*V1 = P2*V2."
+    },
+    {
+        "context": "Newton\u2019s Law of Cooling states that the rate at which an object cools is proportional to the difference between its temperature and the ambient temperature."
+    },
+    {
+        "context": "The Lorentz Force Law states that the force on a charged particle moving through an electric and magnetic field is F = q(E + v \u00d7 B), where q is the charge, v is velocity, and B is the magnetic field."
+    },
+    {
+        "context": "Poisson\u2019s Equation relates the distribution of electric potential to charge density and is expressed as \u2207\u00b2\u03a6 = -\u03c1/\u03b5\u2080."
+    },
+    {
+        "context": "The Hubble Constant is the rate of expansion of the universe, measuring how fast galaxies are moving away from each other."
+    },
+    {
+        "context": "Avogadro\u2019s Law states that equal volumes of gases, at the same temperature and pressure, contain the same number of molecules."
+    },
+    {
+        "context": "The Stefan-Boltzmann Constant (\u03c3) is a physical constant that relates the power radiated by a black body to its temperature, as part of the Stefan-Boltzmann Law."
+    },
+    {
+        "context": "The Mean Free Path is the average distance a particle travels between collisions in a gas or other medium."
+    },
+    {
+        "context": "The Saha Equation describes the ionization equilibrium of a gas in terms of temperature and pressure, particularly in astrophysical contexts."
+    },
+    {
+        "context": "The Quantum Hall Effect occurs when a two-dimensional electron system, subjected to a strong magnetic field, shows quantized values of Hall resistance."
+    },
+    {
+        "context": "The Casimir Effect is a physical force arising from the quantum field between two close, uncharged, conducting plates due to vacuum fluctuations."
+    },
+    {
+        "context": "Wien\u2019s Law states that the black-body radiation curve for different temperatures peaks at a wavelength inversely proportional to the temperature."
+    },
+    {
+        "context": "The Zeroth Law of Thermodynamics states that if two systems are in thermal equilibrium with a third system, they are in thermal equilibrium with each other."
+    },
+    {
+        "context": "Pauli\u2019s Exclusion Principle states that no two fermions (such as electrons) can occupy the same quantum state within an atom."
+    },
+    {
+        "context": "The Quantum Zeno Effect describes how frequent observation of a quantum system can prevent its evolution, effectively 'freezing' its state."
+    },
+    {
+        "context": "The Law of Equipartition of Energy states that in thermal equilibrium, the total energy is equally divided among all degrees of freedom of a system."
+    },
+    {
+        "context": "Noether\u2019s Theorem states that every differentiable symmetry of a physical system\u2019s action corresponds to a conserved quantity, such as energy or momentum."
+    },
+    {
+        "context": "Rayleigh Scattering describes the scattering of light or other electromagnetic radiation by particles much smaller than the wavelength of the radiation, explaining why the sky is blue."
+    },
+    {
+        "context": "Brewster\u2019s Angle is the angle at which light with a particular polarization is perfectly transmitted through a transparent dielectric surface with no reflection."
+    },
+    {
+        "context": "The Gravitational Constant (G) is a fundamental constant that quantifies the strength of gravitational attraction between two masses."
+    },
+    {
+        "context": "The Virial Theorem relates the average kinetic energy and potential energy of particles in a stable system, such as a galaxy or a gas cloud, in equilibrium."
+    },
+    {
+        "context": "Gibbs Free Energy is the thermodynamic potential that measures the maximum reversible work that can be done by a system at constant temperature and pressure."
+    },
+    {
+        "context": "Fourier\u2019s Law states that the rate of heat transfer through a material is proportional to the negative gradient of the temperature and the area through which the heat flows."
+    },
+    {
+        "context": "Laplace\u2019s Law describes the relationship between the pressure difference across the surface of a curved membrane and the tension in the membrane, often applied to bubbles and blood vessels."
+    },
+    {
+        "context": "The Work Function is the minimum energy needed to remove an electron from a solid to a point in the vacuum outside the solid\u2019s surface."
+    },
+    {
+        "context": "Bragg"
+    },
+    {
+        "context": "Brownian Motion describes the random movement of particles suspended in a fluid due to their collisions with the molecules of the fluid."
+    },
+    {
+        "context": "The Langevin Equation describes the time evolution of a system subject to both deterministic forces and random fluctuations, commonly used in the study of Brownian motion."
+    },
+    {
+        "context": "The Debye Model is a theoretical model to describe the specific heat of solids based on their vibrational modes and predicts how heat capacity depends on temperature."
+    },
+    {
+        "context": "The Poynting Vector represents the directional energy flux or power flow per unit area of an electromagnetic field."
+    },
+    {
+        "context": "The Heisenberg Uncertainty Principle states that it is impossible to simultaneously measure both the exact position and exact momentum of a particle."
+    },
+    {
+        "context": "The Law of Conservation of Mass states that mass cannot be created or destroyed in a closed system through ordinary chemical reactions or physical transformations."
+    },
+    {
+        "context": "The Law of Constant Proportions, also known as the Law of Definite Proportions, states that a chemical compound always contains its component elements in a fixed ratio by mass."
+    },
+    {
+        "context": "The Law of Multiple Proportions states that when two elements combine to form different compounds, the mass ratios of the elements in the compounds are simple whole numbers of each other."
+    },
+    {
+        "context": "The Biot Number is a dimensionless quantity used in heat transfer calculations and represents the ratio of conductive heat resistance within an object to convective heat transfer across its boundary."
+    },
+    {
+        "context": "The Stefan Number is a dimensionless number used in phase-change problems, representing the ratio of sensible heat to latent heat in a material."
+    },
+    {
+        "context": "The Navier-Stokes Equation describes the motion of viscous fluid substances and is a fundamental equation in fluid dynamics."
+    },
+    {
+        "context": "Bernoulli\u2019s Equation describes the conservation of energy in a flowing fluid, relating pressure, velocity, and height."
+    },
+    {
+        "context": "The Law of Conservation of Linear Momentum states that the total linear momentum of a closed system remains constant unless acted on by an external force."
+    },
+    {
+        "context": "Pascal\u2019s Law states that a pressure change at any point in an incompressible, confined fluid is transmitted undiminished throughout the fluid."
+    },
+    {
+        "context": "Malus\u2019s Law describes how the intensity of polarized light passing through a polarizer varies with the angle between the light\u2019s initial polarization direction and the axis of the polarizer."
+    },
+    {
+        "context": "The Law of Reflection states that the angle of incidence is equal to the angle of reflection, measured relative to the normal to the surface."
+    },
+    {
+        "context": "Young\u2019s Modulus is a measure of the stiffness of a material, defined as the ratio of stress to strain in the material."
+    },
+    {
+        "context": "Pascal\u2019s Principle states that pressure applied to a confined fluid increases the pressure uniformly throughout the fluid."
+    },
+    {
+        "context": "Coulomb\u2019s Law describes the force between two charged objects, stating that the force is directly proportional to the product of their charges and inversely proportional to the square of the distance between them."
+    },
+    {
+        "context": "The Seebeck Effect refers to the generation of an electromotive force (voltage) in a material when there is a temperature difference across it."
+    },
+    {
+        "context": "The Peltier Effect describes the heating or cooling at the junction of two different conductors when an electric current passes through the junction."
+    },
+    {
+        "context": "The Thomson Effect refers to the heating or cooling of a conductor when an electric current flows through it and there is a temperature gradient."
+    },
+    {
+        "context": "The Hall Effect occurs when a magnetic field is applied perpendicular to the flow of current in a conductor, resulting in a transverse voltage across the conductor."
+    },
+    {
+        "context": "The Carnot Efficiency represents the maximum efficiency that a heat engine can achieve, based on the temperatures of the hot and cold reservoirs."
+    },
+    {
+        "context": "The Ideal Gas Law relates the pressure, volume, and temperature of a gas to the number of molecules, given by PV = nRT."
+    },
+    {
+        "context": "The Principle of Relativity states that the laws of physics are the same for all observers in inertial frames of reference."
+    },
+    {
+        "context": "The Doppler Effect in sound refers to the change in frequency or pitch of a sound wave as the source and observer move relative to each other."
+    },
+    {
+        "context": "The Doppler Effect in light describes the change in frequency (redshift or blueshift) of light due to the motion of the source relative to the observer."
+    },
+    {
+        "context": "The Cosmological Constant is a term added to Einstein\u2019s equations of general relativity to account for the accelerated expansion of the universe."
+    },
+    {
+        "context": "The Gravitational Redshift is the phenomenon where light escaping a gravitational field is shifted toward longer wavelengths due to the effects of gravity."
+    },
+    {
+        "context": "The Schwarzschild Radius is the radius of the event horizon of a black hole, within which the escape velocity equals the speed of light."
+    },
+    {
+        "context": "Frame Dragging is the effect in general relativity where spacetime is twisted in the vicinity of a rotating massive object."
+    },
+    {
+        "context": "Quantum Entanglement is a phenomenon where two or more particles become correlated in such a way that the quantum state of one particle is dependent on the state of the other, even when separated by large distances"
+    },
+    {
+        "context": "Quantum Decoherence is the process by which a quantum system loses its quantum coherence and behaves more classically due to interactions with its environment."
+    },
+    {
+        "context": "The Coefficient of Friction is a dimensionless number that represents the ratio of the force of friction between two bodies to the normal force pressing them together."
+    },
+    {
+        "context": "The Mean Free Path is the average distance a molecule travels between collisions in a gas."
+    },
+    {
+        "context": "The Larmor Formula describes the power radiated by an accelerating charged particle in the form of electromagnetic radiation."
+    },
+    {
+        "context": "The Casimir-Polder Force is a quantum mechanical force between neutral atoms or molecules due to fluctuations in the electromagnetic field."
+    },
+    {
+        "context": "The Hydrogen Spectrum consists of spectral lines corresponding to transitions between energy levels in the hydrogen atom, described by the Balmer, Lyman, and other series."
+    },
+    {
+        "context": "The Rydberg Formula predicts the wavelengths of spectral lines in hydrogen and other hydrogen-like atoms based on the transition between energy levels."
+    },
+    {
+        "context": "The Strong Nuclear Force is the fundamental force that holds protons and neutrons together in the nucleus, acting over very short distances."
+    },
+    {
+        "context": "The Weak Nuclear Force is responsible for beta decay and other processes involving the transformation of particles inside atomic nuclei."
+    },
+    {
+        "context": "Lepton Number Conservation is the principle that the total number of leptons (particles like electrons and neutrinos) is conserved in a particle interaction."
+    },
+    {
+        "context": "In relativity, the Law of Conservation of Energy states that the total energy, including rest mass energy and kinetic energy, is conserved in all processes."
+    },
+    {
+        "context": "Baryon Number Conservation is the principle that the total number of baryons (particles like protons and neutrons) remains constant in particle interactions."
+    },
+    {
+        "context": "Rutherford Scattering describes the deflection of alpha particles by a nucleus, providing evidence for the existence of the atomic nucleus."
+    },
+    {
+        "context": "The De Broglie Wavelength is the wavelength associated with a moving particle, given by \u03bb = h/p, where h is Planck\u2019s constant and p is momentum."
+    },
+    {
+        "context": "The Compton Effect describes the scattering of X-rays by electrons, demonstrating the particle-like properties of light."
+    },
+    {
+        "context": "The Planck Length is the smallest meaningful unit of length in physics, derived from fundamental constants and representing the scale at which quantum gravitational effects become significant."
+    },
+    {
+        "context": "Fermat\u2019s Principle, also known as the Principle of Least Time, states that light travels between two points along the path that takes the least time."
+    },
+    {
+        "context": "The Stefan Number is a dimensionless number used to quantify phase-change problems, representing the ratio of sensible heat to latent heat."
+    },
+    {
+        "context": "The Coefficient of Restitution measures the elasticity of a collision, representing the ratio of relative velocities after and before the collision."
+    },
+    {
+        "context": "The Sagnac Effect is a phenomenon observed when light is split and sent in opposite directions around a rotating object, leading to interference patterns due to rotational motion."
+    },
+    {
+        "context": "The Michelson-Morley Experiment was an attempt to detect the presence of the 'aether' by measuring differences in the speed of light in different directions, ultimately providing evidence for the constancy of the speed of light."
+    },
+    {
+        "context": "Mach\u2019s Principle is the hypothesis that the inertia of an object is influenced by the gravitational effects of all other masses in the universe."
+    },
+    {
+        "context": "A Bose-Einstein Condensate is a state of matter formed at temperatures close to absolute zero, where particles occupy the same quantum state and behave as a single quantum entity."
+    },
+    {
+        "context": "The Heisenberg Picture is a formulation of quantum mechanics where operators evolve with time, while the quantum state remains constant."
+    },
+    {
+        "context": "The Schr\u00f6dinger Picture is a formulation of quantum mechanics where the quantum state evolves with time, while the operators representing observables remain constant."
+    },
+    {
+        "context": "Planck's Constant (h) is a fundamental constant in quantum mechanics that relates the energy of a photon to the frequency of its electromagnetic wave, expressed as E = hf."
+    },
+    {
+        "context": "The Rayleigh Criterion describes the minimum angular separation at which two point light sources can be resolved, based on diffraction limits."
+    },
+    {
+        "context": "The Quantum Zeno Paradox refers to the idea that a quantum system can be prevented from evolving by frequent measurement, effectively freezing its state."
+    },
+    {
+        "context": "The Fine-Structure Constant (\u03b1) is a dimensionless constant that characterizes the strength of electromagnetic interactions between charged particles."
+    },
+    {
+        "context": "The Sommerfeld Quantization Rule was an early quantum mechanical concept that provided quantization conditions for the motion of electrons in atoms, later superseded by the Schr\u00f6dinger equation."
+    },
+    {
+        "context": "The Correspondence Principle states that the behavior of quantum systems must coincide with classical physics in the limit of large quantum numbers or macroscopic scales."
+    },
+    {
+        "context": "A Black Body is an idealized physical object that absorbs all incident electromagnetic radiation and emits radiation based solely on its temperature, according to Planck's law."
+    },
+    {
+        "context": "The Cosmic Microwave Background Radiation is the thermal radiation left over from the Big Bang, providing evidence for the early state of the universe."
+    },
+    {
+        "context": "The Unruh Effect predicts that an accelerating observer will detect black-body radiation in what appears as a vacuum to an inertial observer."
+    },
+    {
+        "context": "The Chandrasekhar Limit is the maximum mass (approximately 1.4 times the mass of the Sun) that a white dwarf star can have before collapsing into a neutron star or black hole due to gravitational forces."
+    },
+    {
+        "context": "The Friedmann Equation describes the expansion of the universe in the context of general relativity, linking the rate of expansion to the energy density of the universe."
+    },
+    {
+        "context": "Quantum Field Theory is a theoretical framework that combines classical field theory, quantum mechanics, and special relativity to describe how particles interact and are created or annihilated."
+    },
+    {
+        "context": "Spontaneous Symmetry Breaking occurs when the ground state of a system does not share the symmetry of the underlying physical laws, often leading to distinct physical phenomena like phase transitions."
+    },
+    {
+        "context": "The Higgs Mechanism is a process by which particles acquire mass through interactions with the Higgs field, with the associated Higgs boson being the particle that mediates these interactions."
+    },
+    {
+        "context": "Bell\u2019s Theorem shows that no theory of local hidden variables can reproduce all the predictions of quantum mechanics, providing a testable distinction between quantum mechanics and classical theories."
+    },
+    {
+        "context": "The Weak Anthropic Principle states that the physical universe must allow the existence of life at some point, as we are here to observe it."
+    },
+    {
+        "context": "The Strong Anthropic Principle suggests that the universe must have properties that allow life to develop at some point, implying that the universe is in some sense 'fine-tuned' for life."
+    },
+    {
+        "context": "The Landauer Principle states that erasing information from a computational system is a fundamentally irreversible process and incurs a minimum possible energy cost."
+    },
+    {
+        "context": "Fermat's Principle, also known as the Principle of Least Time, states that light travels between two points along the path that takes the least time."
+    },
+    {
+        "context": "The Quantum Harmonic Oscillator is a fundamental quantum system that describes the behavior of a particle trapped in a potential well that exerts a restoring force proportional to its displacement."
+    },
+    {
+        "context": "Quantum Teleportation is a process by which the quantum state of a particle is transmitted from one location to another, using quantum entanglement and classical communication."
+    },
+    {
+        "context": "The Curie-Weiss Law describes the magnetic susceptibility of a ferromagnetic material in terms of its temperature, predicting that susceptibility increases as the temperature approaches the Curie point."
+    },
+    {
+        "context": "The Cosmological Principle is the assumption that the universe is homogeneous and isotropic on large scales, meaning it looks the same in every direction and at every location."
+    },
+    {
+        "context": "Quantum Chromodynamics (QCD) is the theory that describes the strong nuclear force, governing the interactions between quarks and gluons."
+    },
+    {
+        "context": "The Geodesic Equation describes the path that a freely falling object follows through curved spacetime in general relativity, representing the generalization of straight lines in flat space."
+    },
+    {
+        "context": "Quantum Gravity is the field of theoretical physics that seeks to describe the gravitational force according to the principles of quantum mechanics, unifying general relativity and quantum theory."
+    },
+    {
+        "context": "Gravitational Lensing occurs when light from a distant object is bent by the gravitational field of a massive object between the source and observer, forming distorted or multiple images of the distant object."
+    },
+    {
+        "context": "The Schwarzschild Metric is the solution to Einstein's field equations that describes the gravitational field outside a spherical, non-rotating mass, such as a black hole."
+    },
+    {
+        "context": "Dark Matter is a form of matter that does not emit, absorb, or reflect light, but is thought to make up most of the matter in the universe due to its gravitational effects on visible matter."
+    },
+    {
+        "context": "Dark Energy is the mysterious force that is causing the accelerated expansion of the universe, representing about 70% of the universe's total energy content."
+    },
+    {
+        "context": "The Anthropic Principle is the idea that the universe's laws and constants are fine-tuned to allow for the existence of life, or at least, intelligent observers like us."
+    },
+    {
+        "context": "Quantum Fluctuation refers to the temporary change in the amount of energy in a point in space due to the uncertainty principle, where virtual particles can briefly appear and disappear."
+    },
+    {
+        "context": "Supersymmetry is a proposed extension of the Standard Model of particle physics that posits a symmetry between fermions and bosons, potentially solving several theoretical issues."
+    },
+    {
+        "context": "Hubble Time is the inverse of the Hubble Constant, representing an estimate of the age of the universe based on the current rate of cosmic expansion."
+    },
+    {
+        "context": "The Cosmic Horizon is the maximum distance from which light has had time to reach us since the beginning of the universe, setting the limit of the observable universe."
+    },
+    {
+        "context": "The Grand Unified Theory (GUT) is a theoretical framework in which the three fundamental forces of the Standard Model\u2014electromagnetic, weak, and strong nuclear forces\u2014are unified at high energies."
+    },
+    {
+        "context": "Quantum Tunneling is a quantum phenomenon where particles pass through energy barriers that they classically should not be able to cross, due to their wave-like nature."
+    },
+    {
+        "context": "The Uncertainty Principle, formulated by Heisenberg, states that certain pairs of physical properties (like position and momentum) cannot both be precisely measured at the same time."
+    },
+    {
+        "context": "The Pauli Exclusion Principle states that no two fermions (such as electrons) can occupy the same quantum state within an atom."
+    },
+    {
+        "context": "Hawking Radiation is the theoretical prediction that black holes can emit radiation due to quantum effects near the event horizon, potentially causing them to lose mass and evaporate over time."
+    },
+    {
+        "context": "The Multiverse Theory suggests that our universe may be just one of many universes, each with its own distinct laws of physics, possibly arising from different initial conditions or quantum fluctuations."
+    },
+    {
+        "context": "Newton's First Law of Motion states that an object will remain at rest or in uniform motion unless acted upon by an external force."
+    },
+    {
+        "context": "Newton's Second Law states that the force acting on an object is equal to the mass of that object multiplied by its acceleration (F = ma)."
+    },
+    {
+        "context": "Newton's Third Law states that for every action, there is an equal and opposite reaction."
+    },
+    {
+        "context": "The Law of Universal Gravitation states that every mass attracts every other mass with a force proportional to their masses and inversely proportional to the square of the distance between them (F = G*(m1*m2)/r^2)."
+    },
+    {
+        "context": "The First Law of Thermodynamics states that energy cannot be created or destroyed, only transferred or changed in form."
+    },
+    {
+        "context": "The Second Law of Thermodynamics states that the total entropy of an isolated system always increases over time."
+    },
+    {
+        "context": "The Third Law of Thermodynamics states that as the temperature of a system approaches absolute zero, the entropy approaches a constant minimum."
+    },
+    {
+        "context": "Hooke\u2019s Law states that the force needed to extend or compress a spring is proportional to the distance it is stretched or compressed (F = kx)."
+    },
+    {
+        "context": "Ohm's Law states that the current through a conductor is directly proportional to the voltage across it and inversely proportional to its resistance (V = IR)."
+    },
+    {
+        "context": "The Law of Conservation of Energy states that energy cannot be created or destroyed, only transferred or transformed from one form to another."
+    },
+    {
+        "context": "Coulomb\u2019s Law states that the force between two charges is directly proportional to the product of their magnitudes and inversely proportional to the square of the distance between them (F = k*(q1*q2)/r^2)."
+    },
+    {
+        "context": "The Law of Reflection states that the angle of incidence is equal to the angle of reflection."
+    },
+    {
+        "context": "Snell\u2019s Law describes how light bends when it passes from one medium to another and is given by n1*sin(\u03b81) = n2*sin(\u03b82)."
+    },
+    {
+        "context": "Faraday's Law states that a change in magnetic flux through a loop of wire induces an electromotive force (EMF) in the wire."
+    },
+    {
+        "context": "Lenz\u2019s Law states that the direction of an induced current is such that it opposes the change in the magnetic flux that caused it."
+    },
+    {
+        "context": "The Principle of Superposition states that the total displacement caused by two or more waves is the sum of the individual displacements."
+    },
+    {
+        "context": "Bernoulli\u2019s Principle states that an increase in the speed of a fluid occurs simultaneously with a decrease in pressure or potential energy."
+    },
+    {
+        "context": "The Law of Conservation of Momentum states that the total momentum of a closed system remains constant if no external forces act on it."
+    },
+    {
+        "context": "Boyle\u2019s Law states that the pressure of a given mass of gas is inversely proportional to its volume at a constant temperature (P1*V1 = P2*V2)."
+    },
+    {
+        "context": "Charles\u2019s Law states that the volume of a gas is directly proportional to its temperature at constant pressure (V1/T1 = V2/T2)."
+    },
+    {
+        "context": "Ampere\u2019s Law relates the integrated magnetic field around a closed loop to the electric current passing through the loop."
+    },
+    {
+        "context": "Kirchhoff\u2019s Voltage Law states that the sum of all electrical potential differences in a closed circuit is zero."
+    },
+    {
+        "context": "Kirchhoff\u2019s Current Law states that the sum of currents entering a junction must equal the sum of currents leaving the junction."
+    },
+    {
+        "context": "The Zeroth Law of Thermodynamics states that if two systems are in thermal equilibrium with a third system, they are in thermal equilibrium with each other."
+    },
+    {
+        "context": "The Pauli Exclusion Principle states that no two fermions can occupy the same quantum state simultaneously."
+    },
+    {
+        "context": "Heisenberg\u2019s Uncertainty Principle states that it is impossible to simultaneously know both the position and the momentum of a particle with absolute precision."
+    },
+    {
+        "context": "The Doppler Effect refers to the change in frequency or wavelength of a wave as perceived by an observer moving relative to the source of the wave."
+    },
+    {
+        "context": "The Work-Energy Theorem states that the work done on an object is equal to the change in its kinetic energy."
+    },
+    {
+        "context": "The Stefan-Boltzmann Law states that the total energy radiated per unit surface area of a black body is proportional to the fourth power of the temperature (P = \u03c3T^4)."
+    },
+    {
+        "context": "Hubble\u2019s Law states that the recessional velocity of galaxies is proportional to their distance from us, indicating that the universe is expanding."
+    },
+    {
+        "context": "Planck\u2019s Law describes the spectral density of electromagnetic radiation emitted by a black body in thermal equilibrium at a given temperature."
+    },
+    {
+        "context": "Archimedes\u2019 Principle states that a body immersed in a fluid experiences an upward buoyant force equal to the weight of the fluid it displaces."
+    },
+    {
+        "context": "Pascal\u2019s Law states that pressure applied to a confined fluid is transmitted undiminished in all directions throughout the fluid."
+    },
+    {
+        "context": "Stefan\u2019s Constant is the proportionality constant in the Stefan-Boltzmann Law, relating the radiated energy of a black body to its temperature."
+    },
+    {
+        "context": "Quantum Tunneling describes the phenomenon where particles pass through a potential energy barrier that they classically should not be able to surmount."
+    },
+    {
+        "context": "The Schrodinger Equation describes how the quantum state of a physical system changes over time."
+    },
+    {
+        "context": "The Heisenberg Equation of Motion describes the time evolution of observables in quantum mechanics based on commutator relations."
+    },
+    {
+        "context": "The Quantum Harmonic Oscillator is a model that describes the quantum behavior of a particle bound in a potential well where the force acting on the particle is proportional to its displacement from equilibrium."
+    },
+    {
+        "context": "The De Broglie Hypothesis states that particles, such as electrons, exhibit wave-like properties, with a wavelength given by \u03bb = h/p, where h is Planck\u2019s constant and p is the momentum."
+    },
+    {
+        "context": "Fick\u2019s Law states that the diffusion flux is proportional to the concentration gradient of a substance, describing how particles move from areas of high concentration to low concentration."
+    },
+    {
+        "context": "Boyle\u2019s Law states that the pressure of a gas is inversely proportional to its volume at constant temperature, expressed as P1*V1 = P2*V2."
+    },
+    {
+        "context": "Newton\u2019s Law of Cooling states that the rate at which an object cools is proportional to the difference between its temperature and the ambient temperature."
+    },
+    {
+        "context": "The Lorentz Force Law states that the force on a charged particle moving through an electric and magnetic field is F = q(E + v \u00d7 B), where q is the charge, v is velocity, and B is the magnetic field."
+    },
+    {
+        "context": "Poisson\u2019s Equation relates the distribution of electric potential to charge density and is expressed as \u2207\u00b2\u03a6 = -\u03c1/\u03b5\u2080."
+    },
+    {
+        "context": "The Hubble Constant is the rate of expansion of the universe, measuring how fast galaxies are moving away from each other."
+    },
+    {
+        "context": "Avogadro\u2019s Law states that equal volumes of gases, at the same temperature and pressure, contain the same number of molecules."
+    },
+    {
+        "context": "The Stefan-Boltzmann Constant (\u03c3) is a physical constant that relates the power radiated by a black body to its temperature, as part of the Stefan-Boltzmann Law."
+    },
+    {
+        "context": "The Mean Free Path is the average distance a particle travels between collisions in a gas or other medium."
+    },
+    {
+        "context": "The Saha Equation describes the ionization equilibrium of a gas in terms of temperature and pressure, particularly in astrophysical contexts."
+    },
+    {
+        "context": "The Quantum Hall Effect occurs when a two-dimensional electron system, subjected to a strong magnetic field, shows quantized values of Hall resistance."
+    },
+    {
+        "context": "The Casimir Effect is a physical force arising from the quantum field between two close, uncharged, conducting plates due to vacuum fluctuations."
+    },
+    {
+        "context": "Wien\u2019s Law states that the black-body radiation curve for different temperatures peaks at a wavelength inversely proportional to the temperature."
+    },
+    {
+        "context": "The Zeroth Law of Thermodynamics states that if two systems are in thermal equilibrium with a third system, they are in thermal equilibrium with each other."
+    },
+    {
+        "context": "Pauli\u2019s Exclusion Principle states that no two fermions (such as electrons) can occupy the same quantum state within an atom."
+    },
+    {
+        "context": "The Quantum Zeno Effect describes how frequent observation of a quantum system can prevent its evolution, effectively 'freezing' its state."
+    },
+    {
+        "context": "The Law of Equipartition of Energy states that in thermal equilibrium, the total energy is equally divided among all degrees of freedom of a system."
+    },
+    {
+        "context": "Noether\u2019s Theorem states that every differentiable symmetry of a physical system\u2019s action corresponds to a conserved quantity, such as energy or momentum."
+    },
+    {
+        "context": "Rayleigh Scattering describes the scattering of light or other electromagnetic radiation by particles much smaller than the wavelength of the radiation, explaining why the sky is blue."
+    },
+    {
+        "context": "Brewster\u2019s Angle is the angle at which light with a particular polarization is perfectly transmitted through a transparent dielectric surface with no reflection."
+    },
+    {
+        "context": "The Gravitational Constant (G) is a fundamental constant that quantifies the strength of gravitational attraction between two masses."
+    },
+    {
+        "context": "The Virial Theorem relates the average kinetic energy and potential energy of particles in a stable system, such as a galaxy or a gas cloud, in equilibrium."
+    },
+    {
+        "context": "Gibbs Free Energy is the thermodynamic potential that measures the maximum reversible work that can be done by a system at constant temperature and pressure."
+    },
+    {
+        "context": "Fourier\u2019s Law states that the rate of heat transfer through a material is proportional to the negative gradient of the temperature and the area through which the heat flows."
+    },
+    {
+        "context": "Laplace\u2019s Law describes the relationship between the pressure difference across the surface of a curved membrane and the tension in the membrane, often applied to bubbles and blood vessels."
+    },
+    {
+        "context": "The Work Function is the minimum energy needed to remove an electron from a solid to a point in the vacuum outside the solid\u2019s surface."
+    },
+    {
+        "context": "Bragg"
+    },
+    {
+        "context": "Brownian Motion describes the random movement of particles suspended in a fluid due to their collisions with the molecules of the fluid."
+    },
+    {
+        "context": "The Langevin Equation describes the time evolution of a system subject to both deterministic forces and random fluctuations, commonly used in the study of Brownian motion."
+    },
+    {
+        "context": "The Debye Model is a theoretical model to describe the specific heat of solids based on their vibrational modes and predicts how heat capacity depends on temperature."
+    },
+    {
+        "context": "The Poynting Vector represents the directional energy flux or power flow per unit area of an electromagnetic field."
+    },
+    {
+        "context": "The Heisenberg Uncertainty Principle states that it is impossible to simultaneously measure both the exact position and exact momentum of a particle."
+    },
+    {
+        "context": "The Law of Conservation of Mass states that mass cannot be created or destroyed in a closed system through ordinary chemical reactions or physical transformations."
+    },
+    {
+        "context": "The Law of Constant Proportions, also known as the Law of Definite Proportions, states that a chemical compound always contains its component elements in a fixed ratio by mass."
+    },
+    {
+        "context": "The Law of Multiple Proportions states that when two elements combine to form different compounds, the mass ratios of the elements in the compounds are simple whole numbers of each other."
+    },
+    {
+        "context": "The Biot Number is a dimensionless quantity used in heat transfer calculations and represents the ratio of conductive heat resistance within an object to convective heat transfer across its boundary."
+    },
+    {
+        "context": "The Stefan Number is a dimensionless number used in phase-change problems, representing the ratio of sensible heat to latent heat in a material."
+    },
+    {
+        "context": "The Navier-Stokes Equation describes the motion of viscous fluid substances and is a fundamental equation in fluid dynamics."
+    },
+    {
+        "context": "Bernoulli\u2019s Equation describes the conservation of energy in a flowing fluid, relating pressure, velocity, and height."
+    },
+    {
+        "context": "The Law of Conservation of Linear Momentum states that the total linear momentum of a closed system remains constant unless acted on by an external force."
+    },
+    {
+        "context": "Pascal\u2019s Law states that a pressure change at any point in an incompressible, confined fluid is transmitted undiminished throughout the fluid."
+    },
+    {
+        "context": "Malus\u2019s Law describes how the intensity of polarized light passing through a polarizer varies with the angle between the light\u2019s initial polarization direction and the axis of the polarizer."
+    },
+    {
+        "context": "The Law of Reflection states that the angle of incidence is equal to the angle of reflection, measured relative to the normal to the surface."
+    },
+    {
+        "context": "Young\u2019s Modulus is a measure of the stiffness of a material, defined as the ratio of stress to strain in the material."
+    },
+    {
+        "context": "Pascal\u2019s Principle states that pressure applied to a confined fluid increases the pressure uniformly throughout the fluid."
+    },
+    {
+        "context": "Coulomb\u2019s Law describes the force between two charged objects, stating that the force is directly proportional to the product of their charges and inversely proportional to the square of the distance between them."
+    },
+    {
+        "context": "The Seebeck Effect refers to the generation of an electromotive force (voltage) in a material when there is a temperature difference across it."
+    },
+    {
+        "context": "The Peltier Effect describes the heating or cooling at the junction of two different conductors when an electric current passes through the junction."
+    },
+    {
+        "context": "The Thomson Effect refers to the heating or cooling of a conductor when an electric current flows through it and there is a temperature gradient."
+    },
+    {
+        "context": "The Hall Effect occurs when a magnetic field is applied perpendicular to the flow of current in a conductor, resulting in a transverse voltage across the conductor."
+    },
+    {
+        "context": "The Carnot Efficiency represents the maximum efficiency that a heat engine can achieve, based on the temperatures of the hot and cold reservoirs."
+    },
+    {
+        "context": "The Ideal Gas Law relates the pressure, volume, and temperature of a gas to the number of molecules, given by PV = nRT."
+    },
+    {
+        "context": "The Principle of Relativity states that the laws of physics are the same for all observers in inertial frames of reference."
+    },
+    {
+        "context": "The Doppler Effect in sound refers to the change in frequency or pitch of a sound wave as the source and observer move relative to each other."
+    },
+    {
+        "context": "The Doppler Effect in light describes the change in frequency (redshift or blueshift) of light due to the motion of the source relative to the observer."
+    },
+    {
+        "context": "The Cosmological Constant is a term added to Einstein\u2019s equations of general relativity to account for the accelerated expansion of the universe."
+    },
+    {
+        "context": "The Gravitational Redshift is the phenomenon where light escaping a gravitational field is shifted toward longer wavelengths due to the effects of gravity."
+    },
+    {
+        "context": "The Schwarzschild Radius is the radius of the event horizon of a black hole, within which the escape velocity equals the speed of light."
+    },
+    {
+        "context": "Frame Dragging is the effect in general relativity where spacetime is twisted in the vicinity of a rotating massive object."
+    },
+    {
+        "context": "Quantum Entanglement is a phenomenon where two or more particles become correlated in such a way that the quantum state of one particle is dependent on the state of the other, even when separated by large distances"
+    },
+    {
+        "context": "Quantum Decoherence is the process by which a quantum system loses its quantum coherence and behaves more classically due to interactions with its environment."
+    },
+    {
+        "context": "The Coefficient of Friction is a dimensionless number that represents the ratio of the force of friction between two bodies to the normal force pressing them together."
+    },
+    {
+        "context": "The Mean Free Path is the average distance a molecule travels between collisions in a gas."
+    },
+    {
+        "context": "The Larmor Formula describes the power radiated by an accelerating charged particle in the form of electromagnetic radiation."
+    },
+    {
+        "context": "The Casimir-Polder Force is a quantum mechanical force between neutral atoms or molecules due to fluctuations in the electromagnetic field."
+    },
+    {
+        "context": "The Hydrogen Spectrum consists of spectral lines corresponding to transitions between energy levels in the hydrogen atom, described by the Balmer, Lyman, and other series."
+    },
+    {
+        "context": "The Rydberg Formula predicts the wavelengths of spectral lines in hydrogen and other hydrogen-like atoms based on the transition between energy levels."
+    },
+    {
+        "context": "The Strong Nuclear Force is the fundamental force that holds protons and neutrons together in the nucleus, acting over very short distances."
+    },
+    {
+        "context": "The Weak Nuclear Force is responsible for beta decay and other processes involving the transformation of particles inside atomic nuclei."
+    },
+    {
+        "context": "Lepton Number Conservation is the principle that the total number of leptons (particles like electrons and neutrinos) is conserved in a particle interaction."
+    },
+    {
+        "context": "In relativity, the Law of Conservation of Energy states that the total energy, including rest mass energy and kinetic energy, is conserved in all processes."
+    },
+    {
+        "context": "Baryon Number Conservation is the principle that the total number of baryons (particles like protons and neutrons) remains constant in particle interactions."
+    },
+    {
+        "context": "Rutherford Scattering describes the deflection of alpha particles by a nucleus, providing evidence for the existence of the atomic nucleus."
+    },
+    {
+        "context": "The De Broglie Wavelength is the wavelength associated with a moving particle, given by \u03bb = h/p, where h is Planck\u2019s constant and p is momentum."
+    },
+    {
+        "context": "The Compton Effect describes the scattering of X-rays by electrons, demonstrating the particle-like properties of light."
+    },
+    {
+        "context": "The Planck Length is the smallest meaningful unit of length in physics, derived from fundamental constants and representing the scale at which quantum gravitational effects become significant."
+    },
+    {
+        "context": "Fermat\u2019s Principle, also known as the Principle of Least Time, states that light travels between two points along the path that takes the least time."
+    },
+    {
+        "context": "The Stefan Number is a dimensionless number used to quantify phase-change problems, representing the ratio of sensible heat to latent heat."
+    },
+    {
+        "context": "The Coefficient of Restitution measures the elasticity of a collision, representing the ratio of relative velocities after and before the collision."
+    },
+    {
+        "context": "The Sagnac Effect is a phenomenon observed when light is split and sent in opposite directions around a rotating object, leading to interference patterns due to rotational motion."
+    },
+    {
+        "context": "The Michelson-Morley Experiment was an attempt to detect the presence of the 'aether' by measuring differences in the speed of light in different directions, ultimately providing evidence for the constancy of the speed of light."
+    },
+    {
+        "context": "Mach\u2019s Principle is the hypothesis that the inertia of an object is influenced by the gravitational effects of all other masses in the universe."
+    },
+    {
+        "context": "A Bose-Einstein Condensate is a state of matter formed at temperatures close to absolute zero, where particles occupy the same quantum state and behave as a single quantum entity."
+    },
+    {
+        "context": "The Heisenberg Picture is a formulation of quantum mechanics where operators evolve with time, while the quantum state remains constant."
+    },
+    {
+        "context": "The Schr\u00f6dinger Picture is a formulation of quantum mechanics where the quantum state evolves with time, while the operators representing observables remain constant."
+    },
+    {
+        "context": "Planck's Constant (h) is a fundamental constant in quantum mechanics that relates the energy of a photon to the frequency of its electromagnetic wave, expressed as E = hf."
+    },
+    {
+        "context": "The Rayleigh Criterion describes the minimum angular separation at which two point light sources can be resolved, based on diffraction limits."
+    },
+    {
+        "context": "The Quantum Zeno Paradox refers to the idea that a quantum system can be prevented from evolving by frequent measurement, effectively freezing its state."
+    },
+    {
+        "context": "The Fine-Structure Constant (\u03b1) is a dimensionless constant that characterizes the strength of electromagnetic interactions between charged particles."
+    },
+    {
+        "context": "The Sommerfeld Quantization Rule was an early quantum mechanical concept that provided quantization conditions for the motion of electrons in atoms, later superseded by the Schr\u00f6dinger equation."
+    },
+    {
+        "context": "The Correspondence Principle states that the behavior of quantum systems must coincide with classical physics in the limit of large quantum numbers or macroscopic scales."
+    },
+    {
+        "context": "A Black Body is an idealized physical object that absorbs all incident electromagnetic radiation and emits radiation based solely on its temperature, according to Planck's law."
+    },
+    {
+        "context": "The Cosmic Microwave Background Radiation is the thermal radiation left over from the Big Bang, providing evidence for the early state of the universe."
+    },
+    {
+        "context": "The Unruh Effect predicts that an accelerating observer will detect black-body radiation in what appears as a vacuum to an inertial observer."
+    },
+    {
+        "context": "The Chandrasekhar Limit is the maximum mass (approximately 1.4 times the mass of the Sun) that a white dwarf star can have before collapsing into a neutron star or black hole due to gravitational forces."
+    },
+    {
+        "context": "The Friedmann Equation describes the expansion of the universe in the context of general relativity, linking the rate of expansion to the energy density of the universe."
+    },
+    {
+        "context": "Quantum Field Theory is a theoretical framework that combines classical field theory, quantum mechanics, and special relativity to describe how particles interact and are created or annihilated."
+    },
+    {
+        "context": "Spontaneous Symmetry Breaking occurs when the ground state of a system does not share the symmetry of the underlying physical laws, often leading to distinct physical phenomena like phase transitions."
+    },
+    {
+        "context": "The Higgs Mechanism is a process by which particles acquire mass through interactions with the Higgs field, with the associated Higgs boson being the particle that mediates these interactions."
+    },
+    {
+        "context": "Bell\u2019s Theorem shows that no theory of local hidden variables can reproduce all the predictions of quantum mechanics, providing a testable distinction between quantum mechanics and classical theories."
+    },
+    {
+        "context": "The Weak Anthropic Principle states that the physical universe must allow the existence of life at some point, as we are here to observe it."
+    },
+    {
+        "context": "The Strong Anthropic Principle suggests that the universe must have properties that allow life to develop at some point, implying that the universe is in some sense 'fine-tuned' for life."
+    },
+    {
+        "context": "The Landauer Principle states that erasing information from a computational system is a fundamentally irreversible process and incurs a minimum possible energy cost."
+    },
+    {
+        "context": "Fermat's Principle, also known as the Principle of Least Time, states that light travels between two points along the path that takes the least time."
+    },
+    {
+        "context": "The Quantum Harmonic Oscillator is a fundamental quantum system that describes the behavior of a particle trapped in a potential well that exerts a restoring force proportional to its displacement."
+    },
+    {
+        "context": "Quantum Teleportation is a process by which the quantum state of a particle is transmitted from one location to another, using quantum entanglement and classical communication."
+    },
+    {
+        "context": "The Curie-Weiss Law describes the magnetic susceptibility of a ferromagnetic material in terms of its temperature, predicting that susceptibility increases as the temperature approaches the Curie point."
+    },
+    {
+        "context": "The Cosmological Principle is the assumption that the universe is homogeneous and isotropic on large scales, meaning it looks the same in every direction and at every location."
+    },
+    {
+        "context": "Quantum Chromodynamics (QCD) is the theory that describes the strong nuclear force, governing the interactions between quarks and gluons."
+    },
+    {
+        "context": "The Geodesic Equation describes the path that a freely falling object follows through curved spacetime in general relativity, representing the generalization of straight lines in flat space."
+    },
+    {
+        "context": "Quantum Gravity is the field of theoretical physics that seeks to describe the gravitational force according to the principles of quantum mechanics, unifying general relativity and quantum theory."
+    },
+    {
+        "context": "Gravitational Lensing occurs when light from a distant object is bent by the gravitational field of a massive object between the source and observer, forming distorted or multiple images of the distant object."
+    },
+    {
+        "context": "The Schwarzschild Metric is the solution to Einstein's field equations that describes the gravitational field outside a spherical, non-rotating mass, such as a black hole."
+    },
+    {
+        "context": "Dark Matter is a form of matter that does not emit, absorb, or reflect light, but is thought to make up most of the matter in the universe due to its gravitational effects on visible matter."
+    },
+    {
+        "context": "Dark Energy is the mysterious force that is causing the accelerated expansion of the universe, representing about 70% of the universe's total energy content."
+    },
+    {
+        "context": "The Anthropic Principle is the idea that the universe's laws and constants are fine-tuned to allow for the existence of life, or at least, intelligent observers like us."
+    },
+    {
+        "context": "Quantum Fluctuation refers to the temporary change in the amount of energy in a point in space due to the uncertainty principle, where virtual particles can briefly appear and disappear."
+    },
+    {
+        "context": "Supersymmetry is a proposed extension of the Standard Model of particle physics that posits a symmetry between fermions and bosons, potentially solving several theoretical issues."
+    },
+    {
+        "context": "Hubble Time is the inverse of the Hubble Constant, representing an estimate of the age of the universe based on the current rate of cosmic expansion."
+    },
+    {
+        "context": "The Cosmic Horizon is the maximum distance from which light has had time to reach us since the beginning of the universe, setting the limit of the observable universe."
+    },
+    {
+        "context": "The Grand Unified Theory (GUT) is a theoretical framework in which the three fundamental forces of the Standard Model\u2014electromagnetic, weak, and strong nuclear forces\u2014are unified at high energies."
+    },
+    {
+        "context": "Quantum Tunneling is a quantum phenomenon where particles pass through energy barriers that they classically should not be able to cross, due to their wave-like nature."
+    },
+    {
+        "context": "The Uncertainty Principle, formulated by Heisenberg, states that certain pairs of physical properties (like position and momentum) cannot both be precisely measured at the same time."
+    },
+    {
+        "context": "The Pauli Exclusion Principle states that no two fermions (such as electrons) can occupy the same quantum state within an atom."
+    },
+    {
+        "context": "Hawking Radiation is the theoretical prediction that black holes can emit radiation due to quantum effects near the event horizon, potentially causing them to lose mass and evaporate over time."
+    },
+    {
+        "context": "The Multiverse Theory suggests that our universe may be just one of many universes, each with its own distinct laws of physics, possibly arising from different initial conditions or quantum fluctuations."
+    },
+    {
+        "context": "The Grand Unified Theory (GUT) is a theoretical framework in which the three fundamental forces of the Standard Model\u2014electromagnetic, weak, and strong nuclear forces\u2014are unified at high energies."
+    },
+    {
+        "context": "Quantum Tunneling is a quantum phenomenon where particles pass through energy barriers that they classically should not be able to cross, due to their wave-like nature."
+    },
+    {
+        "context": "The Uncertainty Principle, formulated by Heisenberg, states that certain pairs of physical properties (like position and momentum) cannot both be precisely measured at the same time."
+    },
+    {
+        "context": "The Pauli Exclusion Principle states that no two fermions (such as electrons) can occupy the same quantum state within an atom."
+    },
+    {
+        "context": "Hawking Radiation is the theoretical prediction that black holes can emit radiation due to quantum effects near the event horizon, potentially causing them to lose mass and evaporate over time."
+    },
+    {
+        "context": "The Multiverse Theory suggests that our universe may be just one of many universes, each with its own distinct laws of physics, possibly arising from different initial conditions or quantum fluctuations."
+    }
+]
