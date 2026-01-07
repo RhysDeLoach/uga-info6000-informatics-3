@@ -53,7 +53,7 @@ Implemented a full nonlinear Digital Twin of the Quanser QubeServo 2 (Furuta) pe
 ---
 
 ## Notes
-Datasets or trained models too large for GitHub are **omitted**, with instructions or references to access them.  
+Datasets or trained models too large for GitHub are **omitted**. If you wish to run the code, please contact me directly to request the dataset.
 
 Repository reflects undergraduate and graduate-level coursework and has not been extensively refactored after submission.  
 
